@@ -295,7 +295,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 	<h5>Fit</h5>
 	<div class="box alt">
 		<div class="row uniform 50%">
-			<div class="12u"><span class="image fit"><img src="assets/images/banner3.jpg" alt="" /></span></div>
+			<div class="12u"><span class="image fit"><img src="assets/images/banner.jpg" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
@@ -304,7 +304,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="assets/images/pic02.jpg" alt="" /></span></div>
 			<div class="4u"><span class="image fit"><img src="assets/images/pic01.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/images/praktik2.jpg" alt="" /></span></div>
 		</div>
 	</div>
 	<h5>Left &amp; Right</h5>
