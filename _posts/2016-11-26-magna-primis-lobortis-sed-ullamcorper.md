@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Magna primis lobortis sed ullamcorper
-description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+title: Vad definierar en akupunktör?
+description: Enligt internationell standard skall en akupunktör (behandlare som utför akupunktur) ha flerårig utbildning
 image: pic03.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Vad definierar en akupunktör?
+Enligt internationell standard skall en akupunktör (behandlare som utför akupunktur) ha flerårig utbildning.
+Grunderna inom traditionell kinesisk akupunktur skall ha studerats och praktiserats ett flertal år samt i västvärlden även en för akupunkturen anpassad skolmedicinsk basutbildning ha genomförts. Hör alltid med den som utför akupunktur hur lång utbildning denne har och om ansvarsförsäkring finns.
