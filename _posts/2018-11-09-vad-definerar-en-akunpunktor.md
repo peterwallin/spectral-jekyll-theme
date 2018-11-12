@@ -2,7 +2,7 @@
 layout: post
 title: Vad definierar en akupunktör?
 description: Enligt internationell standard skall en akupunktör (behandlare som utför akupunktur) ha flerårig utbildning
-image: gubbe.jpg
+image: praktik4.jpg
 ---
 
 Vad definierar en akupunktör?
