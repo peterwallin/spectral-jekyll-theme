@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Vad definierar en akupunktör?
+title: Vad kan behandlas med akupunktur??
 description: Enligt internationell standard skall en akupunktör (behandlare som utför akupunktur) ha flerårig utbildning
 image: praktik4.jpg
 ---
 
-Vad definierar en akupunktör?
-Enligt internationell standard skall en akupunktör (behandlare som utför akupunktur) ha flerårig utbildning.
-Grunderna inom traditionell kinesisk akupunktur skall ha studerats och praktiserats ett flertal år samt i västvärlden även en för akupunkturen anpassad skolmedicinsk basutbildning ha genomförts. Hör alltid med den som utför akupunktur hur lång utbildning denne har och om ansvarsförsäkring finns.
+Akupunktur påverkar allmäntillståndet och medverkar till homeostas/jämnvikt i kroppens funktioner. Sjukdomsbehandling är också en del av akupunkturen och gäller både vid kroppslig såväl som själslig ohälsa. Behandlingsområdena är av mycket skiftande slag och av ett stort antal tillstånd eftersom akupunkturen påverkar hela kroppen. WHO listar och dokumenterar sjukdomar, symtom och andra tillstånd där akupunktur har haft vetenskapligt bevisad effekt genom kontrollerade studier.
