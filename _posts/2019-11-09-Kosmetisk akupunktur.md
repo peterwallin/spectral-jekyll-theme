@@ -3,6 +3,7 @@ layout: post
 title: Kosmetisk Akupunktur
 description:  
 image: facup.jpeg
+youtubeId: TSvOPYXZRX8
 ---
 
 
@@ -17,17 +18,6 @@ Det går också utmärkt att behandla i förebyggande syfte, för att bibehålla
 
 <hr/>
 
-Ta en titt på video nedan!
+Klippet nedan visar en behandling och dess resultat!
 
-
-<div class="embed-container">
-  <iframe
-      src="https://youtu.be/TSvOPYXZRX8{{ include.id }}"
-      width="500"
-      height="281"
-      frameborder="0"
-      webkitallowfullscreen
-      mozallowfullscreen
-      allowfullscreen>
-  </iframe>
-</div>
+{% include youtubePlayer.html id=page.youtubeId %}
