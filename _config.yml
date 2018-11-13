@@ -2,8 +2,8 @@
 title: Akupunkturpraktiken
 email: bittan_wallin@hotmail.com
 description: Akupunkturpraktiken i Tidaholm
-baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "www.akupunkturpraktikenvast.se" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
