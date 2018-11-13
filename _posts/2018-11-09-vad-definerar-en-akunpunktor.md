@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Vad kan behandlas med akupunktur??
-description: Enligt internationell standard skall en akupunktör (behandlare som utför akupunktur) ha flerårig utbildning
+title: Så här går en behandling till
+description:
 image: praktik4.jpg
 ---
 
-Akupunktur påverkar allmäntillståndet och medverkar till homeostas/jämnvikt i kroppens funktioner. Sjukdomsbehandling är också en del av akupunkturen och gäller både vid kroppslig såväl som själslig ohälsa. Behandlingsområdena är av mycket skiftande slag och av ett stort antal tillstånd eftersom akupunkturen påverkar hela kroppen. WHO listar och dokumenterar sjukdomar, symtom och andra tillstånd där akupunktur har haft vetenskapligt bevisad effekt genom kontrollerade studier.
+Behandlingen går till så här
+Tillsammans med din akupunktör samtalar du om åkommans art och dina levnadsvanor med utgångspunkt från traditionell kinesisk medicin och västerländsk diagnos. En kinesisk pulstagning och observation av tungan utförs också som hälsobedömning. Behandlingen planläggs utifrån en strävan till återskapande av jämvikt i kroppens flöden bl a hormon- och blodflödet. Mycket tunna nålar sätts sedan i individuellt utvalda områden på huden. Detta för att dämpa ett överskott eller stärka en svaghet i din kropp. Många känner ett tydligt lugn efter behandlingen. Antal behandlingar beror på åkomma och personens individuella utgångsläge.
