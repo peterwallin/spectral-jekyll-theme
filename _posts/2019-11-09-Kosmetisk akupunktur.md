@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kosmetisk Akupunktur
-description: Nu börjar vi med kosmetisk akupunktur för att mot
+description:  
 image: facup.jpeg
 ---
 Kosmetisk akupunktur har bedrivets i flera tusen år i Kina.
