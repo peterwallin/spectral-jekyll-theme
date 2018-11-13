@@ -1,7 +1,7 @@
 # Site settings
 title: Akupunkturpraktiken
 email: bittan_wallin@hotmail.com
-description: Akupunkturpraktiken i Tidaholm
+description: Akupunkturpraktiken i Tidaholm och Göteborg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.akupunkturpraktikenvast.se" # the base hostname & protocol for your site
 
