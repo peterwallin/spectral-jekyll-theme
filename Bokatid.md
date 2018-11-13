@@ -9,9 +9,9 @@ description:
 
 Tidbokning sker förnärvarande endast via telefon på nummer <b>0706250831</b>
 
-<br/>
+<br/><br/>
 
-<i>Online tidbokning kommer framgent</i>
+<i>Online tidbokning kommer framgent.</i>
 </section>
 
 <br/>
@@ -40,18 +40,6 @@ Tidbokning sker förnärvarande endast via telefon på nummer <b>0706250831</b>
 
 					</select>
 				</div>
-			</div>
-			<div class="4u 12u$(small)">
-				<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-				<label for="demo-priority-low">Low</label>
-			</div>
-			<div class="4u 12u$(small)">
-				<input type="radio" id="demo-priority-normal" name="demo-priority">
-				<label for="demo-priority-normal">Normal</label>
-			</div>
-			<div class="4u$ 12u$(small)">
-				<input type="radio" id="demo-priority-high" name="demo-priority">
-				<label for="demo-priority-high">High</label>
 			</div>
 			<div class="6u 12u$(small)">
 				<input type="checkbox" id="demo-copy" name="demo-copy">
