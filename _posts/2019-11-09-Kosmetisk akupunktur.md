@@ -14,10 +14,10 @@ Kosmetiska akupunkturbehandlingar inkluderar kombinationen av lokala punkter på
 
 I den kosmetiska akupunkturen ger vi alltid en individuell behandling, helt anpassad efter dina behov som balanserar de inre organen samtidigt som man stimulerar blodflödet upp till ansiktet så att hud- och bindvävscellerna får optimalt med näring och syre. Detta ger en vacker lyster i huden och en klarare blick.
 
-Det går också utmärkt att behandla i förebyggande syfte, för att bibehålla hälsa och ungdomlig spänst. För full effekt krävs oftast en kur på minst 10 behandlingar. Dessa bör läggas 1-2 ggr/vecka för bästa möjliga resultat. För att bibehålla effekten rekommenderas sedan ett återbesök helst var 6:e eller 8:e vecka. I förebyggande syfte kan 4 – 6 behandlingar per år räcka. Här kan du se en kort film om kosmetisk akupunktur!
+Det går också utmärkt att behandla i förebyggande syfte, för att bibehålla hälsa och ungdomlig spänst. För full effekt krävs oftast en kur på minst 10 behandlingar. Dessa bör läggas 1-2 ggr/vecka för bästa möjliga resultat. För att bibehålla effekten rekommenderas sedan ett återbesök helst var 6:e eller 8:e vecka. I förebyggande syfte kan 4 – 6 behandlingar per år räcka.
 
 <hr/>
 
-Klippet nedan visar en behandling och dess resultat!
+Här kan du se ett klipp om kosmetisk akupunktur.
 
 {% include YouTubeplayer.html id=page.youtubeId %}
