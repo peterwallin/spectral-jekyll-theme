@@ -20,4 +20,4 @@ Det går också utmärkt att behandla i förebyggande syfte, för att bibehålla
 
 Klippet nedan visar en behandling och dess resultat!
 
-{% include youtubeplayer.html id=page.youtubeId %}
+{% include YouTubeplayer.html id=page.youtubeId %}
