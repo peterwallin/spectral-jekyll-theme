@@ -9,16 +9,16 @@ description:
 
 Tidbokning sker förnärvarande endast via telefon på nummer <b>0706250831</b>
 
-<br/><hr/>
-
-Är du intresserad av att veta mer? se våra vanliga frågor eller startsida för infomration om traditionell kinesisk akupunkutur och dess möjligheter.
 
 <i>Online tidbokning kommer framgent</i>
 </section>
 
+<br/><hr/>
+
+
 
 <section>
-	<h4>Form</h4>
+	<h4>Skicka en fråga</h4>
 	<form method="post" action="#">
 		<div class="row uniform">
 			<div class="6u 12u$(xsmall)">
