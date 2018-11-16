@@ -6,8 +6,6 @@ image: facup.jpeg
 youtubeId: TSvOPYXZRX8
 ---
 
-
-
 Kosmetisk akupunktur har bedrivets i flera tusen år i Kina.
 
 Kosmetiska akupunkturbehandlingar inkluderar kombinationen av lokala punkter på ansiktet och kroppspunkterna för att få kroppen tillbaka till ett hälsotillstånd. Det är viktigt att förstå att åldrande är en naturlig fysiologisk process i livet och det är inte ett "sjukt tillstånd", men vad vi äter och hur vi lever kan accelerera processen eller sakta ner det. Dessutom kan sjukdomar och dess behandlingar påskynda åldringsprocessen. Det är här Kosmetisk Akupunktur skiljer sig från andra anti-agingbehandlingar som botox, fyllmedel och liknande. Vårt fokus som akupunktörer är och kommer alltid att vara att förbättra allmän hälsa genom de tecken och symptom som kroppen visar oss och behandlingen av kosmetisk akupunktur skiljer sig inte från någon annan behandling som vi gör.

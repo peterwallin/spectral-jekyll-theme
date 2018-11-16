@@ -2,6 +2,7 @@
 layout: page
 title: Boka Tid
 description:
+permalink: boka-tid
 ---
 <section>
 
