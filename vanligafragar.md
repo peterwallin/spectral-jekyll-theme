@@ -25,7 +25,7 @@ Har man ätit Cortison ,under en längre tid (år) , kan det vara svårt att hel
 
 Likaså äter man blodtrycksmediciner så kan man i regel minska dessa kraftigt och även upphöra med dem om man tar regelbunden behandling.
 
-####Vad har jag för utbildning?
+#### Vad har jag för utbildning?
 
 Jag har en treårig utbildning i basmedicin i Uppsala. Jag har utbildat mig till akupunktör på CICM Reading England där jag läste i 3 år. En integrerad utbildnig av TCM och Fem element läran. Läs mer på CICM:s hemsida.
 
