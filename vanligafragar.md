@@ -5,10 +5,9 @@ description:
 permalink: Vanliga-fragor
 ---
 
-##Vanliga Frågor
+## Vanliga Frågor
 
-
-####Vad används vid en behandling?
+#### Vad används vid en behandling?
 
 Jag använder mig alltid av akupunktur,med engångsnålar. Inga nålar återanvänds.
 Jag använder i de flesta fall moxa,som är värmande ört,det har en stärkande och läkande effekt
@@ -33,10 +32,3 @@ Jag har en treårig utbildning i basmedicin i Uppsala. Jag har utbildat mig till
 Jag tror på kontinuerligt lärande och tar regelbundet nya kurser och utbildningar inom TCM och fem element.
 
 Jag är Medlem i Svenska Akupunkturförbundet sedan 2001, där jag är försäkrad samt har en ansvarsförsäkring.
-
-
-####Kan jag ta akupunktur ,när jag äter mediciner?
-Ja i de flesta fall ,så går det alldelaes utmärkt att ta medicin och akupunktur samtidigt!
-Om man vill ha behandling för smärta,och äter smärt lindring,så brukar man kunna sluta med dessa mediciner efter ngr gånger!
-Obs,Har man ätit Cortison ,under en längre tid ,(år)då kan det vara svårt att helt upphöra med den,(här finns det undantag)men man brukar kunna minska på dosen!
-Likaså om man äter blodtrycksmediciner,och om man tar behandlingar ,med en regelbundenhet,så går det att minska dessa,och även upphöra med dem!
