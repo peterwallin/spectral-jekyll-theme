@@ -4,16 +4,12 @@ title: Boka Tid
 description:
 permalink: boka-tid
 ---
-<section>
 
-<h4>Telefonbokning</h4>
+####Telefonbokning
 
-Tidbokning sker förnärvarande endast via telefon på nummer <b>0706250831</b>
+Tidbokning sker förnärvarande endast via telefon på nummer **0706250831**
 
-<br/><br/>
-
-<i>Online tidbokning kommer framgent.</i>
-</section>
+*Online tidbokning kommer framgent.*
 
 <br/>
 <hr>

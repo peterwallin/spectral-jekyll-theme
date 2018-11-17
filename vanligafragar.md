@@ -27,8 +27,4 @@ Likaså äter man blodtrycksmediciner så kan man i regel minska dessa kraftigt 
 
 #### Vad har jag för utbildning?
 
-Jag har en treårig utbildning i basmedicin i Uppsala. Jag har utbildat mig till akupunktör på CICM Reading England där jag läste i 3 år. En integrerad utbildnig av TCM och Fem element läran. Läs mer på CICM:s hemsida.
-
-Jag tror på kontinuerligt lärande och tar regelbundet nya kurser och utbildningar inom TCM och fem element.
-
-Jag är Medlem i Svenska Akupunkturförbundet sedan 2001, där jag är försäkrad samt har en ansvarsförsäkring.
+Jag har en treårig utbildning i basmedicin i Uppsala. Jag har utbildat mig till akupunktör på CICM Reading England där jag läste i 3 år. En integrerad utbildnig av TCM och Fem element läran. Läs mer på CICM:s hemsida. Jag tror på kontinuerligt lärande och tar regelbundet nya kurser och utbildningar inom TCM och fem element. Jag är Medlem i Svenska Akupunkturförbundet sedan 2001, där jag är försäkrad samt har en ansvarsförsäkring.
