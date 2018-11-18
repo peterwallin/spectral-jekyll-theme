@@ -2,7 +2,7 @@
 layout: page
 title: Vanliga Frågor
 description:
-permalink: Vanliga-fragor
+permalink: vanliga-fragor
 ---
 
 ## Vanliga Frågor
