@@ -13,6 +13,9 @@ Jag använder mig alltid av akupunktur,med engångsnålar. Inga nålar återanv�
 Jag använder i de flesta fall moxa,som är värmande ört,det har en stärkande och läkande effekt
 tillsammans med nålar. I vissa fall använder jag mig av kopping. Jag ger kostråd ,när jag ser att det är till nytta!
 
+
+<i class="fa-plus-square"></i>
+
 #### Hur många behandlingar behöver jag?
 
 Det är ju alltid beroende av vilka symtom som uppvisas,vilken hälsostatus du har, hur mycket mediciner du äter. Din allmänhälsa, ålder och leverne spelar också in. Detta samman taget avgör hur många behandlingar som jag kan rekommendera.
