@@ -2,7 +2,7 @@
 layout: page
 title: Boka Tid
 description:
-permalink: boka-tid
+permalink: Bokatid
 ---
 
 ####Telefonbokning
