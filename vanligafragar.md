@@ -14,7 +14,7 @@ Jag använder i de flesta fall moxa,som är värmande ört,det har en stärkande
 tillsammans med nålar. I vissa fall använder jag mig av kopping. Jag ger kostråd ,när jag ser att det är till nytta!
 
 
-<i class="fa-plus-square"></i> @fa-question-circle
+<i class="fa-plus-square"></i> @fa-plus-square
 
 #### Hur många behandlingar behöver jag?
 
