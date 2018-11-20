@@ -7,9 +7,8 @@ permalink: vanliga-fragor
 
 ## Vanliga Frågor
 
-
-<i class="fa-plus-square"></i>
 <p><span class="image right"><img src="assets/images/orderlyicon1.png" alt="" /></span></p>
+
 
 #### Vad används vid en behandling?
 
@@ -18,11 +17,14 @@ Jag använder i de flesta fall moxa,som är värmande ört,det har en stärkande
 tillsammans med nålar. I vissa fall använder jag mig av kopping. Jag ger kostråd ,när jag ser att det är till nytta!
 
 
-
+<span class="image center"><i class="fa-plus-square"></i></span>
 
 #### Hur många behandlingar behöver jag?
 
 Det är ju alltid beroende av vilka symtom som uppvisas,vilken hälsostatus du har, hur mycket mediciner du äter. Din allmänhälsa, ålder och leverne spelar också in. Detta samman taget avgör hur många behandlingar som jag kan rekommendera.
+
+<span class="image center"><i class="fa-plus-square"></i></span>
+
 
 #### Kan jag ta akupunktur ,när jag äter mediciner?
 Ja i de flesta fall ,så går det alldelaes utmärkt att ta medicin och akupunktur samtidigt.
@@ -31,6 +33,9 @@ Om man vill ha behandling för smärta,och äter smärt lindring,så brukar man 
 Har man ätit Cortison ,under en längre tid (år) , kan det vara svårt att helt upphöra med medicinering,men man brukar kunna minska på dosen avsevärt.
 
 Likaså äter man blodtrycksmediciner så kan man i regel minska dessa kraftigt och även upphöra med dem om man tar regelbunden behandling.
+
+<span class="image center"><i class="fa-plus-square"></i></span>
+
 
 #### Vad har jag för utbildning?
 
