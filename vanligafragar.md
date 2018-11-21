@@ -30,9 +30,7 @@ Det är ju alltid beroende av vilka symtom som uppvisas,vilken hälsostatus du h
 Ja i de flesta fall ,så går det alldelaes utmärkt att ta medicin och akupunktur samtidigt.
 Om man vill ha behandling för smärta,och äter smärt lindring,så brukar man kunna sluta med dessa mediciner efter ett par behandlingar.
 
-Har man ätit Cortison ,under en längre tid (år) , kan det vara svårt att helt upphöra med medicinering,men man brukar kunna minska på dosen avsevärt.
-
-Likaså äter man blodtrycksmediciner så kan man i regel minska dessa kraftigt och även upphöra med dem om man tar regelbunden behandling.
+Har man ätit Cortison ,under en längre tid (år) , kan det vara svårt att helt upphöra med medicinering,men man brukar kunna minska på dosen avsevärt.Likaså äter man blodtrycksmediciner så kan man i regel minska dessa kraftigt och även upphöra med dem om man tar regelbunden behandling.
 
 <span class="image center"><i class="fa-plus-square"></i></span>
 
