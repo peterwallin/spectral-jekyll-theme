@@ -2,7 +2,7 @@
 layout: post
 title: Så här går en behandling till
 description:
-image: praktik4.jpg
+image: hand5.jpg
 ---
 
 #### Behandling - så här går det till
