@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Boka Tid
-description:
+description: Boka tid på Akupunkturpraktiken i Tidaholm Göteborg
 permalink: Bokatid
 ---
 
-####Telefonbokning
+#### Telefonbokning
 
 Tidbokning sker förnärvarande endast via telefon på nummer **0706250831**
 
