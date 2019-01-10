@@ -11,6 +11,18 @@ Tidbokning sker förnärvarande endast via telefon på nummer **0706250831**
 
 *Online tidbokning kommer framgent.*
 
+Priser
+
+Tidaholm
+Priser Första besöket  895kr,tar ca 1,5 tim
+Efterkommande besök,650 kr ca 50-60 min
+
+Göteborg
+Första besök 995 kr ca 1,5 tim
+Efterkommande besök 800 kr ca 50-60 min
+
+
+
 <br/>
 <hr>
 
