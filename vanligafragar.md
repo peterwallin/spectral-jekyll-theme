@@ -10,7 +10,7 @@ permalink: vanliga-fragor
 <p><span class="image right"><img src="assets/images/orderlyicon1.png" alt="" /></span></p>
 
 
-#### Behandling - så här går det till
+#### Behandling - Så här går det till
 
 Tillsammans med din akupunktör samtalar du initialt om åkommans art och dina levnadsvanor. Inom traditionell kinesisk medicin tillämpas  kinesisk pulstagning,observation av tunga samt analys av hudens tempratur och färg för att fastställa en diagnos och behandlingsplan. Syftet med diagnosen är en strävan att fastställa och behandla orsakerna till åkomman och därigenom stärka kroppens förmåga till självläkning. Genom att sätta in tunna nålar, på indviuduellt utvalda områden/punkter på kroppen bearbetar man stagnation och stärker svagheter i kroppen. Många känner ett tydligt lugn efter behandlingen. Antal behandlingar beror på åkomma och personens individuella utgångsläge.
 
